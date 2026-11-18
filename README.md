@@ -422,11 +422,11 @@ student-feedback/
 
 <div align="center">
 
-Developed with passion by **Sashank Reddy**  
+Developed with passion by **kotana sashank**  
 *Full-Stack Engineer & Machine Learning Specialist*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sashank096-181717?style=flat-square&logo=github)](https://github.com/Sashank096)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashank%20Reddy-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sashank096/)
+[![GitHub]([![GitHub](https://img.shields.io/badge/GitHub-Sashankkotana14-181717?style=flat-square&logo=github)](https://github.com/Sashankkotana14))]
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashank%20Kotana-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sashank-kotana-550118390/))]
 
 *Interested in enterprise institutional intelligence or conversational AI solutions? Feel free to connect or open an issue!*
 
